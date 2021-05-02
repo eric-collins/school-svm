@@ -1,11 +1,16 @@
 # school-svm
 A scikitlearn svm notebook and file for the Grad Test data analysis test
 
-During the course of the data analysis, I decided it would be appropriate to determine if some simple machine learning could reasonably predict if a student would graduate. 
+
+
+During the course of creating a dashboard and the data analysis of Grad Test.xlsx, I decided it would be appropriate to determine if some simple machine learning could reasonably predict if a student would graduate. 
 
 Software used:
+
 Anaconda Data Analysis Distribution
+
 Python pandas data analysis library
+
 Python scikitlearn machine learning library
 
 The Scikitlearn flowchart was used to make the descision to use a Support Vector Machine. The flowchart can be found at https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html. 
